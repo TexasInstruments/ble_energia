@@ -1,5 +1,6 @@
 ble_energia
 ===========
+## Moved from https://github.com/ti-simplelink/ble_energia
 
 This repository hosts the active development for TI's BLE Energia solution. ble_energia adds Energia support to the CC2650 in network processor configuration, using the MSP432 as the application processor.
 
